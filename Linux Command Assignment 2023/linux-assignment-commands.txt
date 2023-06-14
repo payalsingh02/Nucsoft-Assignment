@@ -1,0 +1,10 @@
+Linux commands
+1.mkdir
+2.cd
+3.touch
+4.pwd
+5.cat
+6.mv
+7.cp
+8.rm
+9.ls
